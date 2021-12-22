@@ -1,0 +1,27 @@
+{
+  "name": "highest",
+  "version": "1.0.0",
+  "description": "Find the highest value in an array!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codergautam/highest.git"
+  },
+  "keywords": [
+    "highest",
+    "biggest",
+    "max",
+    "array",
+    "value"
+  ],
+  "author": "CoderGautamYT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codergautam/highest/issues"
+  },
+  "homepage": "https://github.com/codergautam/highest",
+  "dependencies": {}
+}
